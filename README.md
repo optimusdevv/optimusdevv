@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 AI Product Engineer
 
-<!--
-**optimusdevv/optimusdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build AI apps using LLMs, APIs, and FastAPI.
 
-Here are some ideas to get you started:
+## 🔥 Focus
+- AI Agents
+- Backend (FastAPI)
+- LLM Integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech
+Python • FastAPI • SQLite • APIs
+
+## 🚀 Project
+🤖 AI Chatbot with Memory  
+- Chat + memory (SQLite)  
+- Built with FastAPI + OpenRouter  
+
+## 📫 Open to
+Internships • Freelance
